@@ -54,7 +54,7 @@ Example cloud mapping:
 | Platform Component | Cloud Equivalent |
 |---|---|
 Data Lake Storage | AWS S3 |
-Processing Engine | Spark on EMR / Databricks |
+Processing Engine | Spark on EMR |
 Pipeline Orchestration | AWS MWAA (Managed Airflow) |
 Data Warehouse | Amazon Athena / Redshift |
 Monitoring | CloudWatch |
