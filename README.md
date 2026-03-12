@@ -1,6 +1,6 @@
 # Financial Data Platform – End-to-End Data Engineering Architecture
 
-This project implements a **financial data platform** designed to support analytics, machine learning workloads including fraud detection., and business intelligence use cases.
+This project implements a **financial data platform** designed to support analytics, machine learning workloads including fraud detection, and business intelligence use cases.
 
 The platform ingests transactional data, processes it through a multi-layered data architecture, and produces curated datasets for analysts, data scientists, and downstream applications.
 
